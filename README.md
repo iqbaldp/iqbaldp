@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iqbaldp
-- 📫 You can reach me more on https://linktr.ee/iqbaldp
+- 📫 You can reach me more on https://iqbaldp.carrd.co/
 
 <!---
 iqbaldp/iqbaldp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
